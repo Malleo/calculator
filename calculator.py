@@ -1,13 +1,3 @@
-#HW 2
-#Due Date: 09/21/2018, 11:59PM
-########################################
-#                                      
-# Name: Sean Owens
-# Collaboration Statement: No collaboration
-#
-########################################
-
-
 def findNextOpr(txt):
     """
         Takes a string and returns -1 if there is no operator in txt, otherwise returns 
